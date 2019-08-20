@@ -1,0 +1,3 @@
+import yobareru
+
+yobareru.test()
