@@ -22,4 +22,5 @@ class Main:
 num = int(input('数値:'))
 deci = int(input('桁数:'))
 
-Main(num,deci).Hei()
+test = Main(num, deci)
+test.Hei()
